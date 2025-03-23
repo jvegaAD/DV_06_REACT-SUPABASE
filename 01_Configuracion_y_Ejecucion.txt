@@ -1,0 +1,98 @@
+
+
+1 Estructra
+
+06_REACT+SUPABASE/
+│
+├── .env                            # Variables para Python (Supabase URL y API KEY)
+├── Configuracion.txt              # Archivo de notas o configuración adicional
+├── supabase_fetch.py              # Script que extrae datos desde Supabase y guarda data.json
+│
+├── env/                           # Entorno virtual de Python (activado con Scripts/activate)
+│
+├── react_frontend/                # Proyecto React completo
+│   ├── index.html                 # HTML base que carga React (nivel raíz por Vite)
+│   ├── package.json               # Dependencias y scripts del frontend
+│   ├── vite.config.js            # Configuración de Vite
+│   ├── tailwind.config.js        # Configuración de Tailwind CSS
+│   ├── postcss.config.js         # Soporte PostCSS
+│   ├── .env                      # (Opcional) Config env frontend si usas variables públicas
+│   │
+│   ├── public/
+│   │   └── data.json             # Archivo con los datos exportados desde Supabase
+│   │
+│   └── src/
+│       ├── App.jsx               # Componente principal de la app
+│       ├── main.jsx             # Punto de entrada de React
+│       ├── index.css            # Estilos base con Tailwind
+│       │
+│       ├── components/          # Componentes reutilizables
+│       │   ├── ChartEstado.jsx
+│       │   ├── ChartEspecialidad.jsx
+│       │   ├── ChartEntregasMes.jsx
+│       │   └── TableView.jsx
+│       │
+│       └── utils/
+│           └── dataUtils.js     # Funciones auxiliares para agrupar y transformar datos
+
+
+
+PASO 2: Desde la carpeta AC_PlanNegocio:,  Crear entorno virtual
+
+python -m venv env
+.\env\Scripts\activate
+
+
+
+>>>>  Actualizar  PIP
+
+python -m pip install --upgrade pip
+
+pip es el sistema de gestión de paquetes de Python. Su nombre viene de "Pip Installs Packages". 
+
+Instalar un paquete	pip install nombre_del_paquete
+Instalar desde archivo	pip install -r requirements.txt
+Ver paquetes instalados	pip list
+Actualizar un paquete	pip install --upgrade nombre
+Desinstalar un paquete	pip uninstall nombre
+
+
+
+>>>> Instalar dependencias 
+
+pip install supabase
+pip install python-dotenv
+
+
+
+Crear los archivos .py
+
+Genera un archivo  .env   para guardar las claves de la base de datos:
+
+SUPABASE_URL=https://eahgrcsjdgxnmbybpqxg.supabase.co
+SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVhaGdyY3NqZGd4bm1ieWJwcXhnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDE4Mzg4ODEsImV4cCI6MjA1NzQxNDg4MX0.2Nf9dt1kLCuFZcK7IOR5Sch-wccgVzb0IYB-YjGR8O4
+
+
+
+
+>>>> Correr el archivo 
+(env) PS > python supabase_fetch.py
+
+
+
+
+
+>>>> Activar REACT
+
+(env) PS C:\Users\control gestion\JV\DESARROLLO_VARIOS\06_REACT+SUPABASE> cd react_frontend
+(env) PS C:\Users\control gestion\JV\DESARROLLO_VARIOS\06_REACT+SUPABASE\react_frontend> npm install
+
+
+
+
+>>>>  Estando en la carpeta react_frontend:  npm run dev
+
+
+Acceder a los datos importados desde al base de datos
+http://localhost:5173/data.json
+

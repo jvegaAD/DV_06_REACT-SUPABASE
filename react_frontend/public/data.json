@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 1,
+    "empresa": "AAA",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-01-23",
+    "estado": "OK",
+    "especialidad": "Modificación MP",
+    "proyecto_estudio": "Expediente Arquitectura para MP"
+  },
+  {
+    "id": 2,
+    "empresa": "AAA",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-01-31",
+    "estado": "OK",
+    "especialidad": "Convenio SERVIU",
+    "proyecto_estudio": "Tramitar recepción de observaciones."
+  },
+  {
+    "id": 3,
+    "empresa": "AAA",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-02-20",
+    "estado": "Pendiente",
+    "especialidad": "Arq. y Especialidades",
+    "proyecto_estudio": "Expediente de Construcción General."
+  },
+  {
+    "id": 4,
+    "empresa": "AAA",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "En Proceso",
+    "especialidad": "Arquitectura II",
+    "proyecto_estudio": "Ingreso de Modificación Permiso."
+  },
+  {
+    "id": 5,
+    "empresa": "AAA",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-05-09",
+    "estado": "En Proceso",
+    "especialidad": "Arquitectura II",
+    "proyecto_estudio": "Aprobacion Modificación Permiso."
+  },
+  {
+    "id": 6,
+    "empresa": "AAA",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2026-02-05",
+    "estado": "OK",
+    "especialidad": "Arquitectura",
+    "proyecto_estudio": "Expediente Construcción de Arquitectura"
+  },
+  {
+    "id": 7,
+    "empresa": "AGA",
+    "nombre_proyecto": "Nasur",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Arquitectura I",
+    "proyecto_estudio": "Ingreso DOM Digital Permiso Edificación."
+  },
+  {
+    "id": 8,
+    "empresa": "AGA",
+    "nombre_proyecto": "Nasur",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Arquitectura I",
+    "proyecto_estudio": "Arquitectura - Anteproyecto"
+  },
+  {
+    "id": 9,
+    "empresa": "AGA",
+    "nombre_proyecto": "Nasur",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Arquitectura I",
+    "proyecto_estudio": "Arquitectura - Ingreso Digital Anteproyecto"
+  },
+  {
+    "id": 10,
+    "empresa": "AAA",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-01-23",
+    "estado": "OK",
+    "especialidad": "Modificación MP",
+    "proyecto_estudio": "Expediente Arquitectura para MP"
+  },
+  {
+    "id": 11,
+    "empresa": "AAA",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-01-31",
+    "estado": "OK",
+    "especialidad": "Convenio SERVIU",
+    "proyecto_estudio": "Tramitar recepción de observaciones."
+  },
+  {
+    "id": 12,
+    "empresa": "AAA",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-02-20",
+    "estado": "Pendiente",
+    "especialidad": "Arq. y Especialidades",
+    "proyecto_estudio": "Expediente de Construcción General."
+  },
+  {
+    "id": 13,
+    "empresa": "AAA",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "En Proceso",
+    "especialidad": "Arquitectura II",
+    "proyecto_estudio": "Ingreso de Modificación Permiso."
+  },
+  {
+    "id": 14,
+    "empresa": "AAA",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-05-09",
+    "estado": "En Proceso",
+    "especialidad": "Arquitectura II",
+    "proyecto_estudio": "Aprobacion Modificación Permiso."
+  },
+  {
+    "id": 15,
+    "empresa": "AAA",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2026-02-05",
+    "estado": "OK",
+    "especialidad": "Arquitectura",
+    "proyecto_estudio": "Expediente Construcción de Arquitectura"
+  },
+  {
+    "id": 16,
+    "empresa": "AGA",
+    "nombre_proyecto": "Nasur",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Arquitectura I",
+    "proyecto_estudio": "Ingreso DOM Digital Permiso Edificación."
+  },
+  {
+    "id": 17,
+    "empresa": "AGA",
+    "nombre_proyecto": "Nasur",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Arquitectura I",
+    "proyecto_estudio": "Arquitectura - Anteproyecto"
+  },
+  {
+    "id": 18,
+    "empresa": "AGA",
+    "nombre_proyecto": "Nasur",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Arquitectura I",
+    "proyecto_estudio": "Arquitectura - Ingreso Digotal Anteproyecto"
+  },
+  {
+    "id": 19,
+    "empresa": "AGA",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-01-17",
+    "estado": "OK",
+    "especialidad": "SERVIU",
+    "proyecto_estudio": "Recepción de Resolución SERVIU."
+  },
+  {
+    "id": 20,
+    "empresa": "AGA",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "SERVIU",
+    "proyecto_estudio": "Entrega de Respuesta a Observaciones"
+  },
+  {
+    "id": 21,
+    "empresa": "AGA",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "SERVIU",
+    "proyecto_estudio": "Recepción de Observaciones"
+  },
+  {
+    "id": 22,
+    "empresa": "AGA",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "SERVIU",
+    "proyecto_estudio": "Presentar propuesta a SERVIU"
+  },
+  {
+    "id": 23,
+    "empresa": "AGA",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Arquitectura III",
+    "proyecto_estudio": "Arquitectura para Propuesta Serviu"
+  },
+  {
+    "id": 24,
+    "empresa": "AGA",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Arquitectura III",
+    "proyecto_estudio": "Area Verde y Equipamiento + Accesibilidad"
+  },
+  {
+    "id": 25,
+    "empresa": "AGA",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Arquitectura II",
+    "proyecto_estudio": "Arquitectura para mesa Tecnica Serviu"
+  },
+  {
+    "id": 26,
+    "empresa": "AGA",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Certificados de Localización",
+    "proyecto_estudio": "Certificados de Localización"
+  },
+  {
+    "id": 27,
+    "empresa": "AGA",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Arquitectura I",
+    "proyecto_estudio": "Planos Arquitectura Timbrados"
+  },
+  {
+    "id": 28,
+    "empresa": "AGA",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Arquitectura I",
+    "proyecto_estudio": "Permiso de Edificación"
+  },
+  {
+    "id": 29,
+    "empresa": "AGA",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Arquitectura I",
+    "proyecto_estudio": "Arquitectura - Anteproyecto"
+  },
+  {
+    "id": 30,
+    "empresa": "AGA",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "En Proceso",
+    "especialidad": "Habilitación Final",
+    "proyecto_estudio": "Proyecto de Habilitación"
+  },
+  {
+    "id": 31,
+    "empresa": "AGA",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "En Proceso",
+    "especialidad": "Areas Verde",
+    "proyecto_estudio": "Paisajismo y Riego (N/A)"
+  },
+  {
+    "id": 32,
+    "empresa": "AGA",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "En Proceso",
+    "especialidad": "Areas Verde",
+    "proyecto_estudio": "Area Verde y Equipamiento + Accesibilidad"
+  },
+  {
+    "id": 33,
+    "empresa": "BP Ingenieria",
+    "nombre_proyecto": "Nasur",
+    "fecha_entrega_proyectada": "2024-12-19",
+    "estado": "OK",
+    "especialidad": "IMIV",
+    "proyecto_estudio": "Estudio e Ingreso Proyecto IMIV"
+  },
+  {
+    "id": 34,
+    "empresa": "BP Ingenieria",
+    "nombre_proyecto": "Nasur",
+    "fecha_entrega_proyectada": "2025-03-14",
+    "estado": "En Proceso",
+    "especialidad": "IMIV",
+    "proyecto_estudio": "Respuesta Observaciones Proyecto IMIV"
+  },
+  {
+    "id": 35,
+    "empresa": "BP Ingenieria",
+    "nombre_proyecto": "Nasur",
+    "fecha_entrega_proyectada": "2025-03-19",
+    "estado": "En Proceso",
+    "especialidad": "IMIV",
+    "proyecto_estudio": "Aprobación Proyecto IMIV"
+  },
+  {
+    "id": 36,
+    "empresa": "BP Ingenieria",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-01-15",
+    "estado": "OK",
+    "especialidad": "IMIV II",
+    "proyecto_estudio": "Actualización Estudio y Proyecto IMIV"
+  },
+  {
+    "id": 37,
+    "empresa": "BP Ingenieria",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-01-16",
+    "estado": "OK",
+    "especialidad": "IMIV II",
+    "proyecto_estudio": "Certificado de Ingreso IMIV actualizado"
+  },
+  {
+    "id": 38,
+    "empresa": "BP Ingenieria",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-04-15",
+    "estado": "En Proceso",
+    "especialidad": "IMIV II",
+    "proyecto_estudio": "Aprobación Proyecto IMIV"
+  },
+  {
+    "id": 39,
+    "empresa": "BP Ingenieria",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2024-08-27",
+    "estado": "OK",
+    "especialidad": "IMIV",
+    "proyecto_estudio": "Estudio e Ingreso de Proyecto IMIV"
+  },
+  {
+    "id": 40,
+    "empresa": "BP Ingenieria",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2024-09-03",
+    "estado": "OK",
+    "especialidad": "IMIV",
+    "proyecto_estudio": "Certificado de Ingreso IMIV"
+  },
+  {
+    "id": 41,
+    "empresa": "BP Ingenieria",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-04-01",
+    "estado": "En Proceso",
+    "especialidad": "IMIV",
+    "proyecto_estudio": "Aprobación Proyecto IMIV"
+  },
+  {
+    "id": 42,
+    "empresa": "BP Ingenieria",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2024-11-05",
+    "estado": "OK",
+    "especialidad": "Habilitación",
+    "proyecto_estudio": "Estudio e Ingreso Proy. IMIV"
+  },
+  {
+    "id": 43,
+    "empresa": "BP Ingenieria",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-03",
+    "estado": "OK",
+    "especialidad": "Habilitación",
+    "proyecto_estudio": "Respuestas Observaciones Proy. IMIV"
+  },
+  {
+    "id": 44,
+    "empresa": "BP Ingenieria",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-04-02",
+    "estado": "En Proceso",
+    "especialidad": "Habilitación",
+    "proyecto_estudio": "Aprobación Proyecto IMIV"
+  },
+  {
+    "id": 45,
+    "empresa": "CAPURRO",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2024-12-31",
+    "estado": "OK",
+    "especialidad": "Area Verde",
+    "proyecto_estudio": "Paisajismo y Riego"
+  },
+  {
+    "id": 46,
+    "empresa": "CAPURRO",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2024-12-31",
+    "estado": "OK",
+    "especialidad": "Area Verde",
+    "proyecto_estudio": "Area Verde y Equipamiento + Accesibilidad"
+  },
+  {
+    "id": 47,
+    "empresa": "CASTELAR",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2024-12-10",
+    "estado": "OK",
+    "especialidad": "Eléctricidad Chilquinta",
+    "proyecto_estudio": "Pago Ingenieria para Visación de Proyecto Electrico Publico (CHILQUINTA)"
+  },
+  {
+    "id": 48,
+    "empresa": "CPM",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-01-15",
+    "estado": "OK",
+    "especialidad": "Eléctricidad Urba",
+    "proyecto_estudio": "Proy. Iluminación Estac. Techados."
+  },
+  {
+    "id": 49,
+    "empresa": "CPM",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-01-15",
+    "estado": "OK",
+    "especialidad": "Eléctricidad Edificio",
+    "proyecto_estudio": "Proy. Canalización para Ilum. Solar Edif."
+  },
+  {
+    "id": 50,
+    "empresa": "CPM",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-01-15",
+    "estado": "OK",
+    "especialidad": "Eléctricidad Urba",
+    "proyecto_estudio": "Proy. Eléctrico de Punto Limpio."
+  },
+  {
+    "id": 51,
+    "empresa": "CPM",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-01-15",
+    "estado": "OK",
+    "especialidad": "Eléctricidad Urba",
+    "proyecto_estudio": "Proy. Eléctrico de Porteria."
+  },
+  {
+    "id": 52,
+    "empresa": "CPM",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-01-15",
+    "estado": "OK",
+    "especialidad": "Eléctricidad Urba",
+    "proyecto_estudio": "Proy. Eléctrico Local Comercial."
+  },
+  {
+    "id": 53,
+    "empresa": "CPM",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-02-17",
+    "estado": "OK",
+    "especialidad": "Telecomunicaciones",
+    "proyecto_estudio": "Proy. en Edificio."
+  },
+  {
+    "id": 54,
+    "empresa": "CPM",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-02-17",
+    "estado": "OK",
+    "especialidad": "Telecomunicaciones",
+    "proyecto_estudio": "Proy. Banco Ductos."
+  },
+  {
+    "id": 55,
+    "empresa": "CPM",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-02-17",
+    "estado": "OK",
+    "especialidad": "Eléctricidad Edificio",
+    "proyecto_estudio": "Proy. Domiciliario Enchufes e Iluminacion"
+  },
+  {
+    "id": 56,
+    "empresa": "CPM",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-02-19",
+    "estado": "OK",
+    "especialidad": "Eléctricidad Urba",
+    "proyecto_estudio": "Proy. Eléctrico de Sala Bomba."
+  },
+  {
+    "id": 57,
+    "empresa": "CPM",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Iluminación",
+    "proyecto_estudio": "Estudio Luminotécnico del Exterior (DIALUX)"
+  },
+  {
+    "id": 58,
+    "empresa": "CPM",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-04",
+    "estado": "en Revision",
+    "especialidad": "Eléctricidad Urba",
+    "proyecto_estudio": "Proyecto  Eléctrico de recintos exteriores (Sede, Sala Bomba)"
+  },
+  {
+    "id": 59,
+    "empresa": "CPM",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-04",
+    "estado": "en Revision",
+    "especialidad": "Eléctricidad Edificio",
+    "proyecto_estudio": "Proyecto Domiciliario Eléctrico"
+  },
+  {
+    "id": 60,
+    "empresa": "CRC",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-01-14",
+    "estado": "OK",
+    "especialidad": "Convenio SERVIU",
+    "proyecto_estudio": "Subir Información a Plataforma PAS"
+  },
+  {
+    "id": 61,
+    "empresa": "CRC",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "En Proceso",
+    "especialidad": "Convenio SERVIU",
+    "proyecto_estudio": "Actualización Convenio SERVIU - Rel. 1163"
+  },
+  {
+    "id": 62,
+    "empresa": "EMIN",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-01-24",
+    "estado": "nulo",
+    "especialidad": "Contencion TEM",
+    "proyecto_estudio": "Proyecto Contención de Terreno EMIN"
+  },
+  {
+    "id": 63,
+    "empresa": "EMIN",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-01-27",
+    "estado": "nulo",
+    "especialidad": "CONTENCION",
+    "proyecto_estudio": "Presupuesto Ingenieria EMIN"
+  },
+  {
+    "id": 64,
+    "empresa": "EMIN",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-02-04",
+    "estado": "nulo",
+    "especialidad": "Contencion TEM",
+    "proyecto_estudio": "Presupuesto Provisión de materiales y Asesoria EMIN"
+  },
+  {
+    "id": 65,
+    "empresa": "FERRARA",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-28",
+    "estado": "en Revision confirmar 14/03",
+    "especialidad": "Contencion Soil Nailing",
+    "proyecto_estudio": "Presupuesto de construcción SOIL NAILING"
+  },
+  {
+    "id": 66,
+    "empresa": "FERRARA",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-28",
+    "estado": "en Revision confirmar 14/03",
+    "especialidad": "Contencion Soil Nailing",
+    "proyecto_estudio": "Proyecto Contención de Terreno SOIL NAILING"
+  },
+  {
+    "id": 67,
+    "empresa": "FERRARA",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Contencion Soil Nailing",
+    "proyecto_estudio": "Presupuesto Ingenieria SOIL NAILING"
+  },
+  {
+    "id": 68,
+    "empresa": "GASCO",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-03-07",
+    "estado": "en Revision",
+    "especialidad": "Inst. Domiciliarias",
+    "proyecto_estudio": "Propuesta Comercial (GASCO - Gas Licuado)"
+  },
+  {
+    "id": 69,
+    "empresa": "GASSI LTDA.",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-01-24",
+    "estado": "OK",
+    "especialidad": "Gas",
+    "proyecto_estudio": "Instalación de Gas"
+  },
+  {
+    "id": 70,
+    "empresa": "H. Morbiducci",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-02-11",
+    "estado": "OK",
+    "especialidad": "Topografia",
+    "proyecto_estudio": "Plano de Trazado"
+  },
+  {
+    "id": 71,
+    "empresa": "IMOSOLAR",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "Pendiente",
+    "especialidad": "Alumbrado",
+    "proyecto_estudio": "Proyecto Solar Alumbrado Areas Verdes (aprobacion Municipalidad)"
+  },
+  {
+    "id": 72,
+    "empresa": "IMOSOLAR",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "Pendiente",
+    "especialidad": "Alumbrado",
+    "proyecto_estudio": "Proyecto Solar Alumbrado Estacionamientos"
+  },
+  {
+    "id": 73,
+    "empresa": "IMOSOLAR",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "Pendiente",
+    "especialidad": "Alumbrado",
+    "proyecto_estudio": "Proyecto Solar Alumbrado Fachada"
+  },
+  {
+    "id": 74,
+    "empresa": "IMOSOLAR",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "Pendiente",
+    "especialidad": "Alumbrado",
+    "proyecto_estudio": "Proyecto Solar Alumbrado Area Comun"
+  },
+  {
+    "id": 75,
+    "empresa": "IMOSOLAR",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "En Proceso",
+    "especialidad": "Alumbrado",
+    "proyecto_estudio": "Informe para acogerse al Subsidio de Energia Solar."
+  },
+  {
+    "id": 76,
+    "empresa": "IMOSOLAR",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "En Proceso",
+    "especialidad": "SOLAR",
+    "proyecto_estudio": "Presupuesto de Iluminacion Solar."
+  },
+  {
+    "id": 77,
+    "empresa": "IMOSOLAR",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "SOLAR",
+    "proyecto_estudio": "Estudio de Iluminacion Solar."
+  },
+  {
+    "id": 78,
+    "empresa": "INDECH",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-02-27",
+    "estado": "OK",
+    "especialidad": "Eléctricidad Chilquinta",
+    "proyecto_estudio": "Desarrollo Proyecto Electrico Publico (CHILQUINTA)"
+  },
+  {
+    "id": 79,
+    "empresa": "INDECH",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-02-28",
+    "estado": "OK",
+    "especialidad": "Eléctricidad Chilquinta",
+    "proyecto_estudio": "Ingreso Proyecto Electrico Publico (CHILQUINTA) para Visación."
+  },
+  {
+    "id": 80,
+    "empresa": "INDECH",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-03-07",
+    "estado": "Pendiente",
+    "especialidad": "Eléctricidad Chilquinta",
+    "proyecto_estudio": "Pago en Chilquinta para la Visación."
+  },
+  {
+    "id": 81,
+    "empresa": "INDECH",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "OK",
+    "especialidad": "Eléctricidad Chilquinta",
+    "proyecto_estudio": "Presupuesto Costo de Estudio (CHILQUINTA)"
+  },
+  {
+    "id": 82,
+    "empresa": "INDECH",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-04-01",
+    "estado": "En Proceso",
+    "especialidad": "Eléctricidad Chilquinta",
+    "proyecto_estudio": "Visación Proyecto Electrico Publico (CHILQUINTA) para Visación."
+  },
+  {
+    "id": 83,
+    "empresa": "INDECH",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2024-11-19",
+    "estado": "OK",
+    "especialidad": "Eléctricidad Chilquinta",
+    "proyecto_estudio": "Ingreso Proyecto Eléctrico Exterior del Condominio"
+  },
+  {
+    "id": 84,
+    "empresa": "INDECH",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2024-11-26",
+    "estado": "OK",
+    "especialidad": "Eléctricidad Chilquinta",
+    "proyecto_estudio": "Presupuesto de Visación de Proyecto Electrico Publico (CHILQUINTA)"
+  },
+  {
+    "id": 85,
+    "empresa": "INDECH",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-01-28",
+    "estado": "OK",
+    "especialidad": "Eléctricidad Chilquinta",
+    "proyecto_estudio": "Proyecto Informativo Iluminación  Exterior y Presupuesto para 1° Ingreso DOM"
+  },
+  {
+    "id": 86,
+    "empresa": "INDECH",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-02-28",
+    "estado": "OK",
+    "especialidad": "Eléctricidad Chilquinta",
+    "proyecto_estudio": "Presupuesto de Inspección de Proyecto Electrico Publico (CHILQUINTA)"
+  },
+  {
+    "id": 87,
+    "empresa": "INDECH",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "En Proceso",
+    "especialidad": "Eléctricidad Chilquinta",
+    "proyecto_estudio": "Obtener el Proyecto Eléctrico Exterior VISADO del Condominio"
+  },
+  {
+    "id": 88,
+    "empresa": "Jonas",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Ventilación",
+    "proyecto_estudio": "Proyecto Domiciliario ventilación Pasiva y Extracción"
+  },
+  {
+    "id": 89,
+    "empresa": "Juan León",
+    "nombre_proyecto": "Nasur",
+    "fecha_entrega_proyectada": "2025-02-14",
+    "estado": "Revisar",
+    "especialidad": "Sanitaria I",
+    "proyecto_estudio": "Factibilidad Sanitaria de los Lotes"
+  },
+  {
+    "id": 90,
+    "empresa": "Juan León",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-02-10",
+    "estado": "Pendiente",
+    "especialidad": "ALL Publico",
+    "proyecto_estudio": "Solución de Aguas Lluvias Publica"
+  },
+  {
+    "id": 91,
+    "empresa": "Juan León",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-02-25",
+    "estado": "Pendiente",
+    "especialidad": "Agua Potable",
+    "proyecto_estudio": "Proyecto de Red de Agua Potable - Exterior"
+  },
+  {
+    "id": 92,
+    "empresa": "Juan León",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-02-25",
+    "estado": "Pendiente",
+    "especialidad": "Alcantarillado",
+    "proyecto_estudio": "Proyecto de Red de Alcantarillado - Exterior"
+  },
+  {
+    "id": 93,
+    "empresa": "Juan León",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-03-07",
+    "estado": "Actualizar con Observ.",
+    "especialidad": "Proyecto Basura",
+    "proyecto_estudio": "Proyecto Sala de Basura Domiciliario y Exterior"
+  },
+  {
+    "id": 94,
+    "empresa": "Juan León",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-03-07",
+    "estado": "Actualizar con Observ.",
+    "especialidad": "Agua Potable",
+    "proyecto_estudio": "Proyecto de Red de Agua Potable - Interior"
+  },
+  {
+    "id": 95,
+    "empresa": "Juan León",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-03-07",
+    "estado": "Actualizar con Observ.",
+    "especialidad": "Alcantarillado",
+    "proyecto_estudio": "Proyecto de Red de Alcantarillado - Interior"
+  },
+  {
+    "id": 96,
+    "empresa": "Juan León",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-03-07",
+    "estado": "Actualizar con Observ.",
+    "especialidad": "ALL Interior",
+    "proyecto_estudio": "Solución de Aguas Lluvias (privada)"
+  },
+  {
+    "id": 97,
+    "empresa": "Juan León",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-03-07",
+    "estado": "Actualizar con Observ.",
+    "especialidad": "Pav. Interior",
+    "proyecto_estudio": "Proyecto de Pavimentación Interior Condominio. (vereda, estac.)"
+  },
+  {
+    "id": 98,
+    "empresa": "Juan León",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "Actualizar con Observ.",
+    "especialidad": "Pav. Publico",
+    "proyecto_estudio": "Proyecto Pavimentación Publico y Acceso"
+  },
+  {
+    "id": 99,
+    "empresa": "Juan León",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-02-14",
+    "estado": "OK",
+    "especialidad": "Sanitario Publico",
+    "proyecto_estudio": "Proyecto de Estanque Agua"
+  },
+  {
+    "id": 100,
+    "empresa": "Juan León",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-05",
+    "estado": "en Revision",
+    "especialidad": "ALL. Publico",
+    "proyecto_estudio": "Solución de Aguas Lluvias Publica"
+  },
+  {
+    "id": 101,
+    "empresa": "Juan León",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "Actualizar con Observ.",
+    "especialidad": "Basura",
+    "proyecto_estudio": "Proyecto Sala de Basura Domiciliario y Exterior"
+  },
+  {
+    "id": 102,
+    "empresa": "Juan León",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "Actualizar",
+    "especialidad": "Sanitario Interior",
+    "proyecto_estudio": "Proyecto Domiciliario Sanitario"
+  },
+  {
+    "id": 103,
+    "empresa": "Juan León",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "Actualizar",
+    "especialidad": "Sanitario Publico",
+    "proyecto_estudio": "Proyecto de Red de Alcantarillado y Agua Potable"
+  },
+  {
+    "id": 104,
+    "empresa": "Juan León",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "Actualizar",
+    "especialidad": "ALL. Interior",
+    "proyecto_estudio": "Solución de Aguas Lluvias (privada)"
+  },
+  {
+    "id": 105,
+    "empresa": "Juan León",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "Actualizar",
+    "especialidad": "Pav. Interior",
+    "proyecto_estudio": "Proyecto de Pavimentación Interior Condominio. (vereda, estac.)"
+  },
+  {
+    "id": 106,
+    "empresa": "Juan León",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "Actualizar",
+    "especialidad": "Pav. Publico",
+    "proyecto_estudio": "Proyecto Pavimentación Publico y Acceso"
+  },
+  {
+    "id": 107,
+    "empresa": "Kuadrante",
+    "nombre_proyecto": "Nasur",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Mecanica de suelo",
+    "proyecto_estudio": "Estudio de Mecánica de Suelos con Calicatas"
+  },
+  {
+    "id": 108,
+    "empresa": "Kuadrante",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Mecanica de suelo",
+    "proyecto_estudio": "Estudio de Mecánica de Suelos con Sondaje"
+  },
+  {
+    "id": 109,
+    "empresa": "Kuadrante",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Mecanica de suelo",
+    "proyecto_estudio": "Estudio de Mecánica de Suelos con Sondaje"
+  },
+  {
+    "id": 110,
+    "empresa": "Laboratorio Viña del Mar",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Mecanica de suelo",
+    "proyecto_estudio": " Ensayo de corte para 3 Calicatas adicionales (6 metros)"
+  },
+  {
+    "id": 111,
+    "empresa": "R. Soto",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-03-07",
+    "estado": "Atrasado",
+    "especialidad": "Calculo",
+    "proyecto_estudio": "Cálculo Estructural de Local Comercial y Porteria"
+  },
+  {
+    "id": 112,
+    "empresa": "R. Soto",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-03-07",
+    "estado": "Atrasado",
+    "especialidad": "Calculo",
+    "proyecto_estudio": "Cálculo Estructural de Estanque AP"
+  },
+  {
+    "id": 113,
+    "empresa": "R. Soto",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-03-07",
+    "estado": "Actualizar con Observ.",
+    "especialidad": "Calculo",
+    "proyecto_estudio": "Cálculo Estructural de Edificios y Techumbre"
+  },
+  {
+    "id": 114,
+    "empresa": "R. Soto",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-03-14",
+    "estado": "En Proceso",
+    "especialidad": "Calculo",
+    "proyecto_estudio": "Cálculo Estructural de Muros y Barandas"
+  },
+  {
+    "id": 115,
+    "empresa": "R. Soto",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-06",
+    "estado": "Atrasado",
+    "especialidad": "Calculo",
+    "proyecto_estudio": "Cálculo Estructural de Estanque AP"
+  },
+  {
+    "id": 116,
+    "empresa": "R. Soto",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-06",
+    "estado": "Atrasado",
+    "especialidad": "Calculo",
+    "proyecto_estudio": "Cálculo Detalle Coronamiento liviano perimetral en cubierta de edificios"
+  },
+  {
+    "id": 117,
+    "empresa": "R. Soto",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-06",
+    "estado": "Atrasado",
+    "especialidad": "Calculo",
+    "proyecto_estudio": "Cálculo Detalle Tabiques 10 cm Hormigon."
+  },
+  {
+    "id": 118,
+    "empresa": "R. Soto",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "en Revision",
+    "especialidad": "Calculo",
+    "proyecto_estudio": "Cálculo Estructural de Puentes"
+  },
+  {
+    "id": 119,
+    "empresa": "R. Soto",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "Actualizar con Observ.",
+    "especialidad": "Calculo",
+    "proyecto_estudio": "Cálculo Estructural de Sede Social."
+  },
+  {
+    "id": 120,
+    "empresa": "R. Soto",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "Actualizar con Observ.",
+    "especialidad": "Calculo",
+    "proyecto_estudio": "Cálculo Estructural de Edificio MR"
+  },
+  {
+    "id": 121,
+    "empresa": "R. Soto",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "Actualizar con Observ.",
+    "especialidad": "Calculo",
+    "proyecto_estudio": "Cálculo Estructural de Edificios"
+  },
+  {
+    "id": 122,
+    "empresa": "R. Soto",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-14",
+    "estado": "Actualizar segun ajustes Arq.",
+    "especialidad": "Calculo",
+    "proyecto_estudio": "Cálculo Estructural de Muros y Barandas"
+  },
+  {
+    "id": 123,
+    "empresa": "Roberto Mancilla",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Eficiencia Energetica",
+    "proyecto_estudio": "Estudio de Sustentabilidad (Térmico y condensación)"
+  },
+  {
+    "id": 124,
+    "empresa": "Roberto Mancilla",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Eficiencia Energetica",
+    "proyecto_estudio": "Estudio de Sustentabilidad (Térmico y condensación)"
+  },
+  {
+    "id": 125,
+    "empresa": "Roberto Soto",
+    "nombre_proyecto": "Nasur",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Calculo I",
+    "proyecto_estudio": "Cálculo Instrumental para permiso DOM"
+  },
+  {
+    "id": 126,
+    "empresa": "Roberto Soto",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-01-21",
+    "estado": "OK",
+    "especialidad": "Calculo",
+    "proyecto_estudio": "Proyecto Calculo para MP y Ficha firmada."
+  },
+  {
+    "id": 127,
+    "empresa": "Roberto Soto",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Calculo I",
+    "proyecto_estudio": "Cálculo Instrumental para permiso DOM"
+  },
+  {
+    "id": 128,
+    "empresa": "GHE",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2024-12-27",
+    "estado": "OK",
+    "especialidad": "Convenio SERVIU",
+    "proyecto_estudio": "Firma Convenio SERVIU"
+  },
+  {
+    "id": 129,
+    "empresa": "Hugo Riveros",
+    "nombre_proyecto": "ADP",
+    "fecha_entrega_proyectada": "2025-02-11",
+    "estado": "OK",
+    "especialidad": "Topografia",
+    "proyecto_estudio": "Cub. Movimiento de tierras"
+  },
+  {
+    "id": 130,
+    "empresa": "SustentaRoad",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-01-27",
+    "estado": "OK",
+    "especialidad": "Ambiental",
+    "proyecto_estudio": "Estudio y Pertinencia Ambiental"
+  },
+  {
+    "id": 131,
+    "empresa": "SustentaRoad",
+    "nombre_proyecto": "PS",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Ambiental",
+    "proyecto_estudio": "Estudio y Pertinencia Ambiental"
+  },
+  {
+    "id": 132,
+    "empresa": "Adrian Salvo",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-10",
+    "estado": "En Proceso",
+    "especialidad": "Presupuesto",
+    "proyecto_estudio": "Presupuesto para mesa técnica"
+  },
+  {
+    "id": 133,
+    "empresa": "TIERRA REFORZADA",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-01-29",
+    "estado": "nulo",
+    "especialidad": "Contencion TEM",
+    "proyecto_estudio": "Presupuesto Provisión de materiales y Asesoria EMIN"
+  },
+  {
+    "id": 134,
+    "empresa": "TIERRA REFORZADA",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-01-29",
+    "estado": "nulo",
+    "especialidad": "Contencion TEM",
+    "proyecto_estudio": "Proyecto Contención de Terreno Tierra Reforzada"
+  },
+  {
+    "id": 135,
+    "empresa": "Hugo E. Riveros Matus",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-11-03",
+    "estado": "OK",
+    "especialidad": "Habilitación",
+    "proyecto_estudio": "Topografia Arquitectura"
+  },
+  {
+    "id": 136,
+    "empresa": "TIERRA REFORZADA",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-02-19",
+    "estado": "nulo",
+    "especialidad": "Contencion TEM",
+    "proyecto_estudio": "Diseño Nuevo Muro de Contencion"
+  },
+  {
+    "id": 137,
+    "empresa": "TIERRA REFORZADA",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-05",
+    "estado": "nulo",
+    "especialidad": "Contencion TEM",
+    "proyecto_estudio": "Proyecto Nuevo Muro de Contencion"
+  },
+  {
+    "id": 138,
+    "empresa": "TIERRA REFORZADA",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-12",
+    "estado": "nulo",
+    "especialidad": "Contencion TEM",
+    "proyecto_estudio": "Presupuesto Nuevo Muro de Contencion"
+  },
+  {
+    "id": 139,
+    "empresa": "HERIBERTO ARAOS",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-03-25",
+    "estado": "En Proceso",
+    "especialidad": "Contencion TEM",
+    "proyecto_estudio": "Diseño Nuevo Muro de Contencion"
+  },
+  {
+    "id": 140,
+    "empresa": "CRC - CATALINA M.",
+    "nombre_proyecto": "PEVR",
+    "fecha_entrega_proyectada": "2025-04-01",
+    "estado": "En Proceso",
+    "especialidad": "Contencion TEM",
+    "proyecto_estudio": "Presupuesto Nuevo Muro de Contencion"
+  }
+]
