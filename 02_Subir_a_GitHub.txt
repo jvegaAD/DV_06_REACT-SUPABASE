@@ -1,0 +1,113 @@
+Crear un nuevo repositorio desde la línea de comandos
+
+echo "# DV_06_REACT+SUPABASE" >> README.md   # Crea un archivo README.md con el título del proyecto
+git init                                     # Inicializa un repositorio Git en esta carpeta
+git add README.md                            # Añade el archivo README al repositorio
+git commit -m "first commit"                 # Crea el primer commit con mensaje
+git branch -M main                           # Crea (o renombra) la rama principal como "main"
+git remote add origin https://github.com/jvegaAD/DV_06_REACT-SUPABASE.git  # Enlaza tu repositorio local con GitHub
+git push -u origin main                      # Sube tu proyecto a GitHub en la rama "main"
+
+
+
+O subir un repositorio existente a GitHub
+
+git remote add origin https://github.com/jvegaAD/DV_06_REACT-SUPABASE.git  # Enlaza con el repo remoto
+git branch -M main                           # Asegura que estés en la rama "main"
+git push -u origin main                      # Sube el proyecto al repo remoto
+
+
+
+
+
+-------------o0--------------------------------
+Paso a paso en la terminal integrada de VS Code:
+
+git init
+# 🧱 Inicializa un nuevo repositorio Git en la carpeta actual del proyecto
+
+git add .
+# 📦 Agrega todos los archivos y carpetas al área de preparación (staging)
+
+git commit -m "🔰 Proyecto React + Supabase finalizado"
+# ✅ Crea un commit con los archivos preparados, y un mensaje descriptivo
+
+git branch -M main
+# 🌿 Renombra (o crea) la rama principal como "main" (en lugar de "master")
+
+git remote add origin https://github.com/jvegaAD/DV_06_REACT-SUPABASE.git
+# 🔗 Asocia tu repositorio local a un repositorio remoto en GitHub (llamado "origin")
+
+git push -u origin main
+# 🚀 Sube tus commits locales a la rama "main" del repositorio remoto y deja rastreo para futuros push/pull
+
+
+
+-------------o0--------------------------------
+Diferencia de los comandos, al subir por segunda vez un archivo.
+
+git init
+# ⚠️ No es necesario si ya inicializaste el repositorio antes.
+# Si lo ejecutas otra vez, no pasará nada grave si ya existe el repositorio local, pero puede mostrar advertencias.
+
+git add .
+# ✅ Vuelve a agregar TODOS los archivos al área de staging.
+# Esto incluye archivos modificados, nuevos o no rastreados (pero no borra ninguno).
+# Útil para preparar todos los cambios antes de hacer un commit.
+
+git commit -m "mensaje"
+# ✅ Crea un nuevo commit con los archivos añadidos.
+# Si no hubo cambios desde el último commit, Git dirá: "nothing to commit".
+
+git branch -M main
+# ✅ Renombra la rama actual a "main".
+# Si ya estás en la rama "main", no hace nada (es seguro repetirlo).
+
+git remote add origin https://github.com/tu_usuario/repositorio.git
+# ⚠️ SOLO se debe ejecutar una vez.
+# Si lo ejecutas otra vez, Git dirá:  
+# "fatal: remote origin already exists"
+# Solución en ese caso: usar `git remote set-url origin <nueva_url>` para cambiar el remoto.
+
+git push -u origin main
+# ✅ Sube los commits locales a GitHub.
+# Si ya está conectado y autenticado, solo se sincronizan los nuevos commits.
+# El `-u` guarda esta relación, por lo que en el futuro puedes solo escribir `git push`.
+
+
+
+
+
+
+
+
+
+
+-------------o0--------------------------------
+subir un nuevo archivo a GitHub:
+
+
+git add README.md  # 🚀 Archivo con la descripción del proyecto
+
+git commit -m "📝 Agregar documentación inicial del proyecto"
+git push
+
+
+-------------o0--------------------------------
+Explicación del codigo:
+
+git add README.md
+# 🚀 Prepara únicamente el archivo README.md para el próximo commit.
+# Útil si solo hiciste cambios en la documentación y no quieres incluir otros archivos aún.
+
+git commit -m "📝 Agregar documentación inicial del proyecto"
+# 📝 Crea un commit con un mensaje claro que documenta el propósito del cambio: en este caso, añadir el README.
+
+git push
+# ⬆️ Sube ese commit al repositorio remoto (GitHub) en la rama actual (probablemente "main").
+
+
+
+
+
+
