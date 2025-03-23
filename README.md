@@ -8,30 +8,40 @@ Aplicación construida con **React + Vite**, que consume datos desde una base de
 
 ```
 06_REACT+SUPABASE/
-├── supabase_fetch.py             # Script Python que extrae datos desde Supabase
-├── .env                          # Credenciales de Supabase (NO subir al repo)
 │
-├── react_frontend/
+├── supabase_fetch.py            # 🐍 Script Python para extraer datos desde Supabase y guardarlos en data.json
+├── .env                         # 🔐 Variables de entorno con credenciales API de Supabase (¡No subir a GitHub!)
+├── requirements_backend.txt     # 📦 Lista de dependencias Python necesarias (supabase, dotenv)
+│
+├── package.frontend.json        # ⚛️ Configuración de dependencias y scripts del frontend (React)
+├── .gitignore                   # 🚫 Ignora carpetas y archivos innecesarios/sensibles (node_modules, .env, etc.)
+│
+├── react_frontend/              # 📁 Carpeta del frontend hecho en React + Vite
 │   ├── public/
-│   │   └── data.json             # Datos exportados desde Supabase
+│   │   └── data.json            # 📊 Datos exportados desde Supabase y leídos por la app React
 │   │
-│   ├── src/
-│   │   ├── components/           # Gráficos y tabla
-│   │   │   ├── ChartEstado.jsx
-│   │   │   ├── ChartEspecialidad.jsx
-│   │   │   ├── ChartEntregasMes.jsx
-│   │   │   └── TableView.jsx
+│   ├── src/                     # 🧠 Código fuente del proyecto React
+│   │   ├── components/          # 📊 Componentes visuales: gráficos y tabla
+│   │   │   ├── ChartEstado.jsx         # Gráfico de barras por estado de proyecto
+│   │   │   ├── ChartEspecialidad.jsx  # Gráfico de barras por especialidad
+│   │   │   ├── ChartEntregasMes.jsx   # Gráfico de líneas por entregas mensuales
+│   │   │   └── TableView.jsx          # Tabla con los datos extraídos
+│   │   │
 │   │   ├── utils/
-│   │   │   └── dataUtils.js
-│   │   ├── App.jsx
-│   │   ├── main.jsx
-│   │   └── index.css
+│   │   │   └── dataUtils.js    # 🔧 Funciones para agrupar y procesar datos (por mes, categoría, etc.)
+│   │   │
+│   │   ├── App.jsx             # 🧩 Componente principal que renderiza el panel de análisis
+│   │   ├── main.jsx            # 🛠️ Punto de entrada de la app React (monta <App />)
+│   │   └── index.css           # 🎨 Estilos base con TailwindCSS
 │   │
-│   ├── index.html
-│   ├── vite.config.js
-│   ├── tailwind.config.js
-│   ├── postcss.config.js
-│   └── package.json
+│   ├── index.html              # 🧱 HTML base donde React se inyecta (div con id="root")
+│   ├── vite.config.js          # ⚙️ Configuración del build de Vite (incluye base para GitHub Pages)
+│   ├── tailwind.config.js      # 🌀 Configuración personalizada de TailwindCSS
+│   ├── postcss.config.js       # 🧼 Configuración del procesador CSS usado por Tailwind
+│   └── package.json            # 📦 Dependencias y scripts npm para desarrollo/despliegue
+│
+└── README.md                   # 📘 Documentación del proyecto (estructura, instalación, despliegue)
+
 ```
 
 ---
