@@ -1,0 +1,29 @@
+# Node modules (React)
+react_frontend/node_modules/
+
+# Build output (Vite)
+react_frontend/dist/
+
+# .env de Python y React
+.env
+react_frontend/.env
+
+# Entorno virtual de Python
+env/
+venv/
+
+# Archivos temporales
+*.log
+*.pyc
+__pycache__/
+.DS_Store
+
+# Sistema operativo Windows
+Thumbs.db
+ehthumbs.db
+
+# Archivos de VSCode
+.vscode/
+
+# Otros
+*.bak

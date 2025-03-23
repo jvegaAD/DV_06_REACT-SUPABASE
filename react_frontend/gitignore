@@ -1,0 +1,5 @@
+# Ignora cachés y binarios
+node_modules/
+dist/
+*.log
+.cache/

@@ -1,3 +1,10 @@
+Definiciones
+
+
+
+-------------o0--------------------------------
+-------------o0--------------------------------
+
 Crear un nuevo repositorio desde la línea de comandos
 
 echo "# DV_06_REACT+SUPABASE" >> README.md   # Crea un archivo README.md con el título del proyecto
@@ -10,7 +17,16 @@ git push -u origin main                      # Sube tu proyecto a GitHub en la r
 
 
 
+
+Ubicarse en la TErminal en la carpeta  VSC_BD_Reporte
+-------------o0--------------------------------
+(env) PS C:\Users\control gestion\JV_APP\VSC_BD_Reporte> 
+
+
+
+
 O subir un repositorio existente a GitHub
+-------------o0--------------------------------
 
 git remote add origin https://github.com/jvegaAD/DV_06_REACT-SUPABASE.git  # Enlaza con el repo remoto
 git branch -M main                           # Asegura que estés en la rama "main"
@@ -19,7 +35,7 @@ git push -u origin main                      # Sube el proyecto al repo remoto
 
 
 
-
+-------------o0--------------------------------
 -------------o0--------------------------------
 Paso a paso en la terminal integrada de VS Code:
 
@@ -82,7 +98,7 @@ git push -u origin main
 
 
 
-
+-------------o0--------------------------------
 -------------o0--------------------------------
 subir un nuevo archivo a GitHub:
 
@@ -105,6 +121,66 @@ git commit -m "📝 Agregar documentación inicial del proyecto"
 
 git push
 # ⬆️ Sube ese commit al repositorio remoto (GitHub) en la rama actual (probablemente "main").
+
+
+
+
+
+
+
+-------------o0--------------------------------
+-------------o0--------------------------------
+
+
+Limpia el cache si es necesario:
+
+git rm -r --cached react_frontend/node_modules
+git rm -r --cached react_frontend/dist
+
+
+
+
+
+-------------o0--------------------------------
+-------------o0--------------------------------
+subir todos los archivo a GitHub:
+
+git add .
+# 📦 Agrega todos los archivos modificados, nuevos o eliminados al área de staging (preparación)
+
+git commit -m "🧩 Actualización general del proyecto con mejoras y nuevos componentes"
+# 📝 Crea un commit (una versión local) con una descripción clara del cambio que hiciste
+
+git push
+# 🚀 Sube ese commit al repositorio remoto en GitHub
+
+
+
+
+
+
+
+
+
+-------------o0--------------------------------
+📦 Si no tienes instalado gh-pages, instálalo:
+npm install gh-pages --save-dev
+
+
+
+🚀 Luego corre en  react_frontend
+
+ (env) PS C:\Users\control gestion\JV_APP\VSC_BD_Reporte\react_frontend>
+
+
+npm run deploy
+
+
+
+
+Enlace WEB PAGE
+
+https://jvegaAD.github.io/DV_06_REACT-SUPABASE/
 
 
 
